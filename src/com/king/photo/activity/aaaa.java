@@ -10,6 +10,7 @@ public class aaaa extends Activity{
 protected void onCreate(Bundle savedInstanceState) {
 	// TODO Auto-generated method stub
 	super.onCreate(savedInstanceState);
-	
+	///2222222222222222222222222222222222222222
+//	33333333333333333
 }
 }
